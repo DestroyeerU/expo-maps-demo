@@ -22,8 +22,7 @@
       "**/*"
     ],
     "android": {
-      "package": "com.destroyeeru.basic",
-      "versioCode": 1
+      "package": "com.destroyeeru.basic"
     },
     "ios": {
       "supportsTablet": true
