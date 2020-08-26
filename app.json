@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Expo Basic Template",
+    "slug": "expo-basic-template",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.destroyeeru.basic",
+      "versioCode": 1
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
